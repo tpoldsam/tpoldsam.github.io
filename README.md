@@ -10,7 +10,7 @@ I would have preferred to use **html** and **css** to create this website becaus
 Even though I am complaining, I am glad I had to use markdown. There is a lot of things that can be done with it.
 You can:
 - make headings in many different sizes
-- change text **bold** or *italic* or even ***both***
+- change text to **bold** or *italic* or even ***both***
 - make lists ;)
 1. unordered lists
 2. ordered lists
